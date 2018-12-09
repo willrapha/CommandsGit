@@ -1,2 +1,0 @@
-# CommandsGit
-Trainning Commads Git
