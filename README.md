@@ -1,6 +1,6 @@
 # Photo Portfolio
 
->A simple project course on Udemy.
+> A simple project course on Udemy.
 
 Big Picture by HTML5 UP
 html5up.net | @ajlkn
